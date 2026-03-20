@@ -1,4 +1,4 @@
 [build]
-  base    = ""           # leave blank if your project is in repo root
+  base    = ""
   publish = "_site"
-  command = "dotnet tool install -g docfx --version 2.78.5 && docfx build"
+  command = "bash build.sh"
