@@ -23,16 +23,6 @@
       "version": ""
     },
     {
-      "type": "Conceptual",
-      "source_relative_path": "articles/my-first-blog.md",
-      "output": {
-        ".html": {
-          "relative_path": "articles/my-first-blog.html"
-        }
-      },
-      "version": ""
-    },
-    {
       "type": "Toc",
       "source_relative_path": "articles/toc.yml",
       "output": {
